@@ -7,7 +7,3 @@ Basic algorithms
 │   └── HW2
 └── README
 ```
-├── ML <br>
-│   ├── [HW1](./HW1.ipynb) # MLE, kNN, Naive Bayes <br>
-│   └── HW2 <br>
-└── README
