@@ -1,12 +1,9 @@
 # ML
 Basic algorithms
 
-- |__ML__
-  - |__HW1__: MLE, kNN, Naive Bayes
-
 ```bash
 ├-─ ML
-│   ├── HW1 #
+│   ├── HW1 # MLE, kNN, Naive Bayes
 │   └── HW2
-├── README
+└──README
 ```
